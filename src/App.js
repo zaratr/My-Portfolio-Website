@@ -64,7 +64,7 @@ class App extends Component {
   }
 
   loadSharedData = () => {
-    $.ajax({
+    $.ajax({//async and replaces axios for http requests; $ is imported from jquery at line 3
       url: `portfolio_shared_data.json`,
       dataType: "json",
       cache: false,
