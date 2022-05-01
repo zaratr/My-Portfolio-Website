@@ -57,7 +57,7 @@ class Header extends Component {
           </Nav.Item>
           <Nav.Item>        
             <LinkContainer to="/about">
-              <Nav.Link eventKey="about">About</Nav.Link>
+              <Nav.Link eventKey="about" style={{color: "#313131 !important"}}>About</Nav.Link>
             </LinkContainer>
           </Nav.Item>
           <Nav.Item>
