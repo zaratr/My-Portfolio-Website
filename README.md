@@ -1,6 +1,6 @@
 # Modify this portfolio
 
-Make it your own! 
+
 https://dreamy-bonbon-4dd60a.netlify.app
 
 Number and name of feature: Initial creation of first time portfolio
