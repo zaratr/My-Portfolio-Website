@@ -107,9 +107,10 @@ class Header extends Component {
           <div className="col-md-12">
             <div>
                   <img
-                    height="250px"
+                    height="150px"
                     src={proImg}
                     alt="Avatar placeholder"
+                    style={{borderRadius:20}}
                     
                   />
 
