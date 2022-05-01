@@ -48,8 +48,8 @@ body[data-theme="dark"] {
          background:  #141414;
       }
       .card {
-         background: #6d6d6d;
-         color: white;
+         background: #2d0a5e;
+         color: rgb(183, 183, 183);
       }
    }
 
@@ -68,18 +68,18 @@ body[data-theme="dark"] {
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: #230d39;
       .section-title {
          color: white !important;
       }
 
       .experience-badge {
-         background: #919191 !important;
+         background: #cd1616 !important;
          color: white;
       }
 
       .main-badge {
-         background: #919191 !important;
+         background: #cd1616 !important;
       }
 
       .vertical-timeline-element-date {
@@ -97,7 +97,7 @@ body[data-theme="dark"] {
    }
 
    .modal-inside .modal-content {
-      background: #5b5b5b;
+      background: #595757;
       color: white;
    }
 
