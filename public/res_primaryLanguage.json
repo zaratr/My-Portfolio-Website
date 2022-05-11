@@ -52,6 +52,14 @@
           {
             "class": "devicon-tensorflow-original",
             "name": "Tensorflow"
+          },
+          {
+            "class": "devicon-numpy-original-wordmark",
+            "name": "NumPy"
+          },
+          {
+            "class": "devicon-pandas-original",
+            "name": "Pandas"
           }
         ]
       },
@@ -70,8 +78,8 @@
             "name": "Python"
           },
           {
-            "class": "devicon-tensorflow-original",
-            "name": "Tensoflow"
+            "class": "devicon-numpy-original-wordmark",
+            "name": "NumPy"
           }
         ]
       }

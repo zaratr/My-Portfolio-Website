@@ -69,6 +69,37 @@
           "name": "Java(Strong)",
           "class": "devicon-java-plain",
           "level": "60"
+        },
+
+        {
+          "name": "Pandas",
+          "class": "devicon-pandas-plain",
+          "level": "75"
+        },
+        {
+          "name": "Tensorflow",
+          "class": "devicon-tensorflow-original",
+          "level": "75"
+        },
+        {
+          "name": "Heroku",
+          "class": "devicon-heroku-plain",
+          "level": "75"
+        },
+        {
+          "name": "Keras",
+          "class": "devicon-kaggle-plain",
+          "level": "75"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-plain",
+          "level": "75"
+        },
+        {
+          "name":"OpenCV",
+          "class":"devicon-opencv-plain"
+
         }
       ]
     }

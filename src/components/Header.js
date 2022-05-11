@@ -61,6 +61,11 @@ class Header extends Component {
             </LinkContainer>
           </Nav.Item>
           <Nav.Item>
+            <LinkContainer to="/resume">
+              <Nav.Link href="TechStrength2CF.pdf">Resume</Nav.Link>
+            </LinkContainer>
+          </Nav.Item>
+          <Nav.Item>
             <Switch 
               checked={this.state.checked}
               onChange={this.onThemeSwitchChange}
