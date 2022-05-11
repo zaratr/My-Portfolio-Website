@@ -82,7 +82,7 @@
         "title": "Full Stack Development with Java, ReactJs and Tutor",
         "years": "03.2022 - 07.2022",
         "mainTech": [
-          "ReactJs 8/9/22"
+          "ReactJs"
         ],
         "technologies": [
           "REST API",
@@ -95,7 +95,7 @@
           "DataStructure and Algorithms",
           "Functional Programming (lambda and Arrow Functions)"
         ],
-        "icon": "devicon-bootstrap-plain"
+        "icon": "devicon-react-plain"
       },
       {
         "company": "Arizona State University",
@@ -112,11 +112,11 @@
         "icon": "devicon-java-plain"
       },
       {
-        "company": "Machine Learning",
-        "title": "Software Development",
+        "company": "Self-Taught",
+        "title": "Machine Learning Project",
         "years": "03.2019 - 03.2021",
         "mainTech": [
-          "Python, Tensorflow"
+          "Python, Neural Network, Machine Learning Concepts"
         ],
         "technologies": [
           "Tensorflow 2.0",
@@ -124,7 +124,9 @@
           "CNN",
           "Self-Driving Vehicle Simulation",
           "Pandas",
-          "Skiplotlib"
+          "Skiplotlib",
+          "Keras",
+          "OpenCV"
         ],
         "icon": "devicon-python-plain"
       },
