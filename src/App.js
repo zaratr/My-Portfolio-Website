@@ -111,6 +111,13 @@ class App extends Component {
               sharedBasicInfo={this.state.sharedData.basic_info}
             />
           </Route>
+          <Route path="/resume">
+              <object data="./TechStrength2CF.pdf" type="application/pdf" 
+            style={{ fontSize: "250%", display: 'flex', justifyContent: 'center', 
+            alignItems: 'center', flex:1, width: '100%', height:'100%',
+            minHeight:'500px'
+            }}>alt resume</object>
+          </Route>
         </Switch>
         <Footer 
           sharedBasicInfo={this.state.sharedData.basic_info}
