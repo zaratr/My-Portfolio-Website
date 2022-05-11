@@ -64,6 +64,7 @@ class App extends Component {
     );
   }
 
+
   loadResumeFromPath = (path) => {
     $.ajax({
       url: path,
