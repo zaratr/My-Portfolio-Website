@@ -78,38 +78,73 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Codefellows",
+        "title": "Full Stack Development with Java, ReactJs and Tutor",
+        "years": "03.2022 - 07.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "ReactJs 8/9/22"
         ],
         "technologies": [
           "REST API",
           "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
+          "Single Page Application(front and back)",
+          "SQL",
+          "NoSQL",
+          "DataStructure and Algorithms",
+          "Functional Programming (lambda and Arrow Functions)"
+        ],
+        "icon": "devicon-bootstrap-plain"
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Arizona State University",
+        "title": "Software Development - Student",
+        "years": "03.2021 - 09.2024",
         "mainTech": [
-          "Angular 7/8"
+          "Java and Computer Science Fundementals"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+          "Data Structures and Algorithms",
+          "Principles of Programming",
+          "tutor"
+        ],
+        "icon": "devicon-java-plain"
+      },
+      {
+        "company": "Machine Learning",
+        "title": "Software Development",
+        "years": "03.2019 - 03.2021",
+        "mainTech": [
+          "Python, Tensorflow"
+        ],
+        "technologies": [
+          "Tensorflow 2.0",
+          "Numpy",
+          "CNN",
+          "Self-Driving Vehicle Simulation",
+          "Pandas",
+          "Skiplotlib"
+        ],
+        "icon": "devicon-python-plain"
+      },
+      {
+        "company": "Self-Taught",
+        "title": "Software Development",
+        "years": "01.2018 - 03.2019",
+        "mainTech": [
+          "Python, C, C++, and Java, Computer Science Fundementals"
+        ],
+        "technologies": [
+          "Data Structures and Algorithms",
+          "Principles of Programming",
+          "Big O, Big Theta, Big Omega",
+          "Recursion",
+          "Object-Oriented Programming",
+          "Operating Systems",
+          "Assembly language - ARM"
+        ],
+        "icon": "devicon-cplusplus-plain"
       }
     ]
   }

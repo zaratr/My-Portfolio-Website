@@ -18,6 +18,7 @@ class Home extends Component {
         <Experience
           resumeExperience={this.props.resumeData.experience}
           resumeBasicInfo={this.props.resumeData.basic_info}
+          sharedSkills={this.props.sharedData.skills}
         />
       </div>
     );

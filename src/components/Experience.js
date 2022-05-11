@@ -6,10 +6,12 @@ import {
 import "react-vertical-timeline-component/style.min.css";
 import Badge from "react-bootstrap/Badge";
 
+
 class Experience extends Component {
   render() {
     if (this.props.resumeExperience && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.experience;
+      let icons = this.props.sharedSkills.icons.map(skills => skills.class)
       var work = this.props.resumeExperience.map(function (work, i) {
         const technologies = work.technologies;
         const mainTechnologies = work.mainTech;
@@ -37,7 +39,11 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            icon={<i className={work.icon} 
+            style={{ fontSize: "250%", display: 'flex', justifyContent: 'center', 
+            alignItems: 'center', flex:1, width: '100%', height:'100%', 
+            }}></i>}
+            // icon={<i className="fab fa-react experience-icon"></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
